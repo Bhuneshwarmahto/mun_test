@@ -1,0 +1,5 @@
+dict = {'name':  'mukesh',  'Age':  24,  'address':  'kolkata',}
+
+print(dict)
+for x in dict.key():
+print(x)

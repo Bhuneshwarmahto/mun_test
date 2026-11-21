@@ -1,0 +1,119 @@
+python
+
+*  take a string as input and find out the most frequent character and its frequency from input. remove all spaces on it
+ 
+*  program on MRO
+
+* program on Super() keyword
+
+* explain immutable data types in python
+
+* difference between list and set
+
+* difference between method overloading and method overiding
+
+* difference between private and protected access modifiers
+
+* expain the significance of self keyword
+
+* what is the use of constructor in python?
+
+* What is Abstraact class and what is the purpose of it?
+
+*  What is decorator?
+
+* what is genearator?
+
+* what is lamda function?
+
+* when to use map filter and reduce?
+
+* what is context manager?
+
+* Multithreading and multiprocessing
+
+* what GIL and its usage
+
+* what is python logging
+
+Selenium
+* write xpath and css for code snippet
+
+* difference between implicit and explicit wait
+
+* different exception in selenium and how to overcome it
+
+* how you switch between  windows
+
+* difference between driver.close and driver.quit
+
+* how you will handle alerts 
+
+API
+
+* what are query and path parameters
+
+* different http methods
+
+* different aunthetication
+
+* serialization and deserializarion
+
+* different status codes
+ 
+SQL
+
+* difference between inner and outer join
+
+* write a query to get second highest salary of an employee
+
+GIT
+
+* Explain different stages in git
+
+* diffrence between git pull and git fetch
+
+* what is git stash
+
+* what is branching and merging in git
+
+* how will you resolve conflicts in git
+
+*  what is git rebase
+
+Framework
+
+pytest framework explanation
+
+Python behave ramework explaination with POM
+
+ allure reporting
+
+parallel execution
+
+CI/CD
+
+what is the format to schedule job
+
+how will you configure job in jenkins
+
+Testing fundamentals
+
+* diferent levels of testing
+
+* difference between smoke and sanity
+
+* what is regresion testing
+
+* what is alpha and beta testing
+
+* what is test pyramid
+
+
+
+
+
+
+
+
+
